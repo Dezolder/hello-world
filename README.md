@@ -1,2 +1,2 @@
 # hello-world
-To ne familiar with a GitHub
+To be familiar with a GitHub
